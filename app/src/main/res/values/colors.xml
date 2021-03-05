@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="defaultBackground">@android:color/transparent</color>
+
+    <color name="colorPrimary">#1A9EF1</color>
+    <color name="colorPrimaryDark">#026FBB</color>
+    <color name="colorAccent">#1A9EF1</color>
+    <color name="colorControlActivated">#C8E6C9</color>
+    <color name="colorControlHighlight">#C8E6C9</color>
+
+
+    <color name="pro_colorPrimary">#F57C00</color>
+    <color name="pro_colorPrimaryDark">#EF6C00</color>
+    <color name="pro_colorAccent">#FFAB40</color>
+    <color name="pro_colorControlActivated">#FFAB40</color>
+    <color name="pro_colorControlHighlight">#ffcc80</color>
+
+    <color name="sos_colorPrimary">#D50000</color>
+    <color name="sos_colorPrimaryDark">#8B0000</color>
+    <color name="sos_colorAccent">@android:color/holo_red_light</color>
+    <color name="sos_colorControlActivated">#FF0000</color>
+    <color name="sos_colorControlHighlight">#FA8072</color>
+
+    <color name="colorText">#DD000000</color>
+    <color name="grey_400">#bdbdbd</color>
+    <color name="black_semi_transparent_75">#BF000000</color>
+    <color name="black_semi_transparent_50">#80000000</color>
+    <color name="grey_semi_transparent_50">#80bdbdbd</color>
+    <color name="grey_600">#757575</color>
+    <color name="white_40p">#66ffffff</color>
+    <color name="yellow">#FFC107</color>
+
+    <color name="windowBackgroundColor">#FAFAFA</color>
+    <color name="statusBarTransparentColor">@color/colorPrimary</color>
+
+    <color name="alterDialogColor">@android:color/holo_red_light</color>
+    <color name="red_accent">#D50000</color>
+    <color name="green_accent">#1A9EF1</color>
+
+    <color name="dividerColor">#737373</color>
+
+    <color name="dialogTitle">#DD000000</color>
+    <color name="disabled_background">@color/grey_semi_transparent_50</color>
+
+
+    <color name="treatment_medicine_status_validated_no_transmission">#dcedc8</color>
+    <color name="treatment_medicine_status_validated_transmission">#ffd180</color>
+    <color name="treatment_medicine_status_not_validated_no_transmission">#ce93d8</color>
+    <color name="treatment_medicine_status_not_validated_transmission">#fce4ec</color>
+    <color name="treatment_medicine_status_stoped">#fff8e1</color>
+    <color name="overlay_disabled">#CCCCCCCC</color>
+
+    <color name="visio_background">#EAEAEA</color>
+    <color name="visio_textColor">#606060</color>
+
+    <color name="colorTextIcons">#FFFFFFFF</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorHintText">#BDBDBD</color>
+
+    <color name="colorMeetingInvitationStart">#4004BB</color>
+    <color name="colorMeetingInvitationEnd">#8A1AAA</color>
+    <color name="colorBackground">#FAFAFA</color>
+
+    <color name="colorAudioPrimary">#1A9EF1</color>
+    <color name="colorAudioPrimaryDark">#026FBB</color>
+    <color name="colorAudioAccent">#FFFFFF</color>
+
+    <color name="colorMailPrimary">#E91E63</color>
+    <color name="colorMailPrimaryDark">#C2185B</color>
+    <color name="colorMailAccent">#03A9F4</color>
+    <color name="colorOrange">#F2B32A</color>
+
+    <color name="purple_200">#E91E63</color>
+    <color name="purple_700">#C2185B</color>
+    <color name="black">#03A9F4</color>
+    <color name="teal_200">#F2B32A</color>
+
+    <color name="colorBlackAudioPrimary">#1A1B1C</color>
+    <color name="colorBlackAudioPrimaryDark">#151515</color>
+    <color name="colorBlackAudioAccent">#FFFFFF</color>
+
+</resources>
